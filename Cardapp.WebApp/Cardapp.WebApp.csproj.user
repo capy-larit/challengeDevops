@@ -12,6 +12,7 @@
     <WebStackScaffolding_LayoutPageFile />
     <ShowAllFiles>false</ShowAllFiles>
     <ActiveDebugProfile>Cardapp.WebApp</ActiveDebugProfile>
+    <NameOfLastUsedPublishProfile>C:\Users\challenge\Source\Repos\capy-larit\challengeDevops\Cardapp.WebApp\Properties\PublishProfiles\WebAppCardapp - Web Deploy.pubxml</NameOfLastUsedPublishProfile>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
     <DebuggerFlavor>ProjectDebugger</DebuggerFlavor>
