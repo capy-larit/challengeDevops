@@ -5,7 +5,7 @@ node {
     
       
     stage('Build') {
-        echo 'acesse -> https://testjenkins.azurewebsites.net/'
+        echo 'acesse -> https://testjenkins.azurewebsites.net/ teste'
     }
 
 
