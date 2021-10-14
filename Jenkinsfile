@@ -1,5 +1,5 @@
 node {
-    script
+    
     withCredentials([azureServicePrincipal('azsrvprincipal')])
       
     
