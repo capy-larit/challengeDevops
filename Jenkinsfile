@@ -1,6 +1,7 @@
 node {
-    
-    withCredentials([azureServicePrincipal('azsrvprincipal')])
+    stage('Credenciais'){
+        withCredentials([azureServicePrincipal('azsrvprincipal')])
+    }
       
     
     
